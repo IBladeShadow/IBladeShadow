@@ -1,4 +1,4 @@
-# 👋 Hi, I'm BladeShadow
+# 👋 Hi, I'm IBladeShadow
 
 > Developer and creator of digital worlds | Lover of RP games and dark challenges 🖤
 
