@@ -48,15 +48,3 @@
 ![BladeShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=IBladeShadow&show_icons=true&theme=dark&hide=issues)
 
 ---
-
-## 📫 راه ارتباط
-
-- [GitHub](https://github.com/IBladeShadow)  
-- ایمیل: `IBladeShadow@gmail.com`  
-- همیشه آماده همکاری و پروژه‌های چالش‌برانگیز 💡  
-
----
-
-## 🌌 جمله مورد علاقه
-
-*"هر سایه، داستان خودش را دارد… و من سایه‌ها را می‌سازم."*
