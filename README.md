@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E&animation=wave)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript&logoColor=3178C6&animation=wave)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=FFD43B&animation=wave)
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=007396&animation=wave)
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=red&animation=wave)
 ![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&animation=wave)
 
 ### Technologies
