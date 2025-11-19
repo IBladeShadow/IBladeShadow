@@ -1,19 +1,19 @@
-# 👋 سلام، من BladeShadow
+# 👋 Hi, I'm BladeShadow
 
-> برنامه‌نویس و خالق دنیای دیجیتال | عاشق بازی‌های RP و چالش‌های تاریک 🖤
-
----
-
-## 💻 درباره من
-
-- توسعه‌دهنده **Next.js**, **Java**, **C++**, **HTML/CSS**  
-- عاشق خلق سیستم‌ها و گیم‌های پیچیده 🎮  
-- همیشه در مسیر یادگیری و بهبود مهارت‌ها ⚡  
-- می‌سازم، بازی می‌کنم و داستان خلق می‌کنم — جهان خودم را می‌سازم 🌌
+> Developer and creator of digital worlds | Lover of RP games and dark challenges 🖤
 
 ---
 
-## 🛠 مهارت‌ها
+## 💻 About Me
+
+- Developer of **Next.js**, **Java**, **C++**, **HTML/CSS**  
+- Passionate about building complex systems and games 🎮  
+- Always learning and improving my skills ⚡  
+- I create, play, and craft stories — building my own universe 🌌
+
+---
+
+## 🛠 Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E&animation=wave)
@@ -32,19 +32,17 @@
 
 ---
 
-## ⚡ پروژه‌های اخیر
+## ⚡ Recent Projects
 
-- **BladeClient** – کلاینت شخصی Minecraft با قابلیت‌های ویژه و ابزارهای سفارشی  
+- **BladeClient** – Personal Minecraft client with special features and custom tools  
   ![BladeClient](https://img.shields.io/badge/Project-BladeClient-blue?style=for-the-badge&logo=minecraft&logoColor=white&animation=glow)
-- **ModernShadow.ir** – سایت اختصاصی سرور Minecraft  
+- **ModernShadow.ir** – Dedicated website for a Minecraft server  
   ![ModernShadow](https://img.shields.io/badge/Project-ModernShadow.ir-green?style=for-the-badge&logo=website&logoColor=white&animation=glow)
-- **Shadow Survival** – بازی سرگرمی با C++  
+- **Shadow Survival** – Fun game made with C++  
   ![ShadowSurvival](https://img.shields.io/badge/Project-ShadowSurvival-purple?style=for-the-badge&logo=unity&logoColor=white&animation=glow)
 
 ---
 
-## 📊 وضعیت گیت‌هاب
+## 📊 GitHub Stats
 
 ![BladeShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=IBladeShadow&show_icons=true&theme=dark&hide=issues)
-
----
