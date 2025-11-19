@@ -28,7 +28,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26&animation=glow)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6&animation=glow)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=F05032&animation=glow)
-![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux&logoColor=FCC624&animation=glow)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker&logoColor=2496ED&animation=glow)
 
 ---
@@ -61,7 +60,3 @@
 ## 🌌 جمله مورد علاقه
 
 *"هر سایه، داستان خودش را دارد… و من سایه‌ها را می‌سازم."*
-
----
-
-> ⚡ **توضیح:** شیلدها با انیمیشن و افکت نوری طراحی شدن تا پروفایل پویا و حرفه‌ای به نظر برسه.
