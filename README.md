@@ -31,16 +31,6 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=F05032&animation=glow)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker&logoColor=2496ED&animation=glow)
 
----
-
-## ⚡ Recent Projects
-
-- **BladeClient** – Personal Minecraft client with special features and custom tools  
-  ![BladeClient](https://img.shields.io/badge/Project-BladeClient-blue?style=for-the-badge&logo=minecraft&logoColor=white&animation=glow)
-- **ModernShadow.ir** – Dedicated website for a Minecraft server  
-  ![ModernShadow](https://img.shields.io/badge/Project-ModernShadow.ir-green?style=for-the-badge&logo=website&logoColor=white&animation=glow)
-- **Shadow Survival** – Fun game made with C++  
-  ![ShadowSurvival](https://img.shields.io/badge/Project-ShadowSurvival-purple?style=for-the-badge&logo=unity&logoColor=white&animation=glow)
 
 ---
 
