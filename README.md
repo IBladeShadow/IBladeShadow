@@ -21,6 +21,7 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=FFD43B&animation=wave)
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=red&animation=wave)
 ![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&animation=wave)
+![C#](https://camo.githubusercontent.com/4c6600965c58d4e8b79f343a04176beccaab870273659c9feb1adabe70dea898/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d7768697465)
 
 ### Technologies
 ![Next.js](https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js&logoColor=white&animation=glow)
