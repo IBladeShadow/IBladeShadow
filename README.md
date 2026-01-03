@@ -35,9 +35,6 @@
 ![MYSQL](https://camo.githubusercontent.com/cf28e471422858e1bc54a9bc723b2c19decb7df00221e951efa7713514570e5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 
 
----
-
-[![GitHub Streak](https://github-readme-streak-stats-black-ten.vercel.app?user=IBladeShadow&theme=transparent&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
