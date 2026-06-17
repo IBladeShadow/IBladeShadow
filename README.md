@@ -6,7 +6,7 @@
 
 ## 💻 About Me
 
-- Developer of **Next.js**, **Java**, **C++**, **HTML/CSS**  
+- Developer of **JS**, **Java**, **C#**, **Python**  
 - Passionate about building complex systems and games 🎮  
 - Always learning and improving my skills ⚡  
 - I create, play, and craft stories — building my own universe 🌌
