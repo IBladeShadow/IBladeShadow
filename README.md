@@ -9,7 +9,7 @@ I build game servers, web applications, AI tools, and custom software. Most of m
 ## About Me
 
 ```yaml
-Name: BladeShadow
+Name: Arshia
 Focus:
   - Full Stack Development
   - Minecraft Infrastructure
@@ -90,15 +90,6 @@ A desktop AI assistant powered by local LLMs.
 * React
 * Ollama
 * Node.js
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IBladeShadow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBladeShadow&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
