@@ -18,7 +18,7 @@ Focus:
 
 Currently Working On:
   - ModernShadow Minecraft Network
-  - BladeClient
+  - MDSCore
   - Local AI Tools
 ```
 
