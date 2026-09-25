@@ -51,7 +51,7 @@ Currently Working On:
 
 ---
 
-## Featured Projects
+## My Best Projects
 
 ### ModernShadow Network
 
@@ -59,11 +59,9 @@ Minecraft network running multiple game modes with a custom infrastructure.
 
 **Stack**
 
-* Velocity Proxy
-* Purpur
+* Velocity Proxy (Fork)
+* Paper (Fork)
 * Slimefun
-* LuckPerms
-* LiteBans
 * Next.js Website
 * MySQL Backend
 
